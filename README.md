@@ -1,4 +1,4 @@
-## Pytorch implementation of MA3E
+## Pytorch implementation of [MA3E](https://arxiv.org/pdf/2408.01946)
 
 ![image](https://github.com/benesakitam/MA3E/blob/main/figs/pipeline.jpg)
 
