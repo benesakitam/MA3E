@@ -130,10 +130,12 @@ This repo is a modification on the [MAE repo](https://github.com/facebookresearc
 ## Citation
 Please cite this paper if it helps your research:
 ```
-@article{li2024masked,
+@inproceedings{li2025masked,
   title={Masked angle-aware autoencoder for remote sensing images},
   author={Li, Zhihao and Hou, Biao and Ma, Siteng and Wu, Zitong and Guo, Xianpeng and Ren, Bo and Jiao, Licheng},
-  journal={arXiv preprint arXiv:2408.01946},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={260--278},
+  year={2025},
+  organization={Springer}
 }
 ```
